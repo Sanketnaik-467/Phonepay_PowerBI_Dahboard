@@ -6,7 +6,7 @@
 This project showcases an interactive **Employee Attrition & Workforce Analytics Dashboard** developed using **Power BI** to analyze workforce demographics, employee attrition patterns, job satisfaction, and departmental performance. The dashboard provides HR professionals with actionable insights into employee turnover, workforce distribution, salary trends, and employee engagement, enabling data-driven workforce planning and retention strategies.
 
 
- [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Bank-Loan-Analysis-Dashboard/blob/156a762f70b504fb5d24bec060ceeefd9c5b67ce/Bank_Loan_Analysis_Dashboard.pbix)
+ [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/d12e41833445de7644f3ca5a4b3ce55e8ac94c5b/Phonepe_PowerBI_Dahboard.pbix)
 <br><br>
 
 ## Business Challenge
