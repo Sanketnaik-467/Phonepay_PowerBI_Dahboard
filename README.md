@@ -36,8 +36,11 @@ Using Power BI, DAX measures, and data visualization techniques, I developed a c
 ## Dashboard Preview
 
 ### HR Workforce & Attrition Analytics Dashboard
+<img src="https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/3a06c03299fdad67c0514a5ba6009f00a786bc92/Phonepe_PowerBI_Dahboard(1).png" alt="Image Description" width="400">
+<img src="https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/3a06c03299fdad67c0514a5ba6009f00a786bc92/Phonepe_PowerBI_Dahboard(2).png" alt="Image Description" width="400">
+<img src="https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/3a06c03299fdad67c0514a5ba6009f00a786bc92/Phonepe_PowerBI_Dahboard(3).png" alt="Image Description" width="400">
+<img src="https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/3a06c03299fdad67c0514a5ba6009f00a786bc92/Phonepe_PowerBI_Dahboard(4).png" alt="Image Description" width="400">
 
-<img src="https://github.com/Sanketnaik-467/Employee-Attrition-and-Workforce-analysis/blob/f6ad748bb0a6568afede080cd887eb83e0cb9233/HR_Employee_Attrition_Dashboard.png" alt="Image Description" width="600">
 
 ## Outcome
 
