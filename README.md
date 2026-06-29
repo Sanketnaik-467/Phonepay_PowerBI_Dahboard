@@ -35,16 +35,16 @@ Using Power BI, DAX measures, and data visualization techniques, I developed a c
 
 ## Dashboard Preview
 
-### HR Workforce & Attrition Analytics Dashboard
+### Dashboard Overview
 <img src="https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/3a06c03299fdad67c0514a5ba6009f00a786bc92/Phonepe_PowerBI_Dahboard(1).png" alt="Image Description" width="400">
 
-### HR Workforce & Attrition Analytics Dashboard
+### Transactions Analysis
 <img src="https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/3a06c03299fdad67c0514a5ba6009f00a786bc92/Phonepe_PowerBI_Dahboard(2).png" alt="Image Description" width="400">
 
-### **Loan Application & Market Insights**
+### Users Analysis
 <img src="https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/3a06c03299fdad67c0514a5ba6009f00a786bc92/Phonepe_PowerBI_Dahboard(3).png" alt="Image Description" width="400">
 
-### **Loan Application & Market Insights**
+### Business Insights
 <img src="https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/3a06c03299fdad67c0514a5ba6009f00a786bc92/Phonepe_PowerBI_Dahboard(4).png" alt="Image Description" width="400">
 
 
